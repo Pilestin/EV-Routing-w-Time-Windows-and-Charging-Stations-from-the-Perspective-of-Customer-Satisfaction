@@ -1,9 +1,7 @@
-# Publication Announcement
-
-## Electric Vehicle Routing with Time Windows and Charging Stations from the Perspective of Customer Satisfaction
+# Electric Vehicle Routing with Time Windows and Charging Stations from the Perspective of Customer Satisfaction
 
 <div style="text-align: center;">
-    <img src="Article_Banner_MDPI_applsci-15-04703.png" alt="Article Banner" width="80%" height="auto"/>
+    <img src="https://github.com/Pilestin/EV-Routing-w-Time-Windows-and-Charging-Stations-from-the-Perspective-of-Customer-Satisfaction/blob/master/Article_Banner_MDPI_applsci-15-04703.png" alt="Article Banner" width="80%" height="auto"/>
 </div>
 
 
