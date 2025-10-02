@@ -5,6 +5,11 @@
 The use of electric vehicles in urban transportation is increasing daily due to their energy efficiency and environmental friendliness. In last-mile logistics, route optimization must consider charging station locations while balancing operational costs and customer satisfaction. In this context, solutions for cost-oriented route optimization have been presented in the literature. On the other hand, customer satisfaction is also important for third-party logistics companies. This study discusses the Capacitated Electric Vehicle Routing Problem with Time Windows (CEVRPTW) encountered in last-mile logistics. This article defines the objective function of minimizing total tardiness and compares the routes between the service provider logistics company and the customer receiving the service. In this study, the CEVRPTW was solved for the minimum total tardiness objective function with the hybrid adaptive large neighborhood search (ALNS) algorithm. The success of ALNS was proven by comparing the differences between the optimal solutions obtained with the CPLEX Solver and the ALNS solutions. Tardiness objective function-specific operators for ALNS are proposed and supported by local search and VNS algorithms. The findings of this study contribute to the literature by analyzing the balance trade-offs between customer-oriented and cost-oriented and the effect of time windows on the number of vehicles.
 
 **Keywords:** electric vehicle routing; time windows; adaptive large neighborhood search; tardiness; last-mile delivery
+
+**Authors:**  
+Yasin Ünal ([ORCID](https://orcid.org/0009-0006-6704-9409)), Prof. Dr. İnci Sarıçiçek ([ORCID](https://orcid.org/0000-0002-3528-7342)), Dr. Sinem Bozkurt Keser ([ORCID](https://orcid.org/0000-0002-8013-6922)), Prof. Dr. Ahmet Yazıcı ([ORCID](https://orcid.org/0000-0001-5589-2032))
+
+
 **Journal:** Applied Sciences (MDPI)  
 **Volume:** 15 | **Issue:** 9 | **Article ID:** 4703 | **Publication Date:** 24 April 2025
 
